@@ -1,0 +1,5 @@
+__pycache__/
+API_Doc/
+todo.txt
+venv/
+db.sqlite3

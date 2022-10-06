@@ -1,0 +1,13 @@
+Django==3.1.6
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.7.2
+python-environ==0.4.54
+
+# Mob Psycho 100
+
+"""
+{
+    "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY2NDkyNDgxNSwianRpIjoiMTM0ZDE2M2RjYTQxNGRhZjg5ZjhlMGNlMGNhODJkOTgiLCJ1c2VyX2lkIjoxMn0.ZflnBlL8tTq7mRFREJidWRb9-pLcSjd0fKOIovouGLU",
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjY0ODc0NDE1LCJqdGkiOiJkZmNjNDljY2FjYTc0ODk1OWUzOWM1ZTQ0ZWMwZmI0NyIsInVzZXJfaWQiOjEyfQ.LexmJ53kQyYBp2LqvVN6q0bjpGFuZH65BReW3H_2iPc"
+}
+"""
